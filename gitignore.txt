@@ -1,8 +1,11 @@
-#ignore git files
+#ignore git  and enviornment files
 .git
+.venv/
+.env
 
 #ignore example
-aws-samples-wickr-bedrock/
+.kiro/
+
 
 # Ignore build output directories
 bin/
