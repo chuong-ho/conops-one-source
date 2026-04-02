@@ -3,8 +3,10 @@
 .venv/
 .env
 
+
 #ignore example
 .kiro/
+
 
 
 # Ignore build output directories
@@ -20,6 +22,7 @@ logs/
 node_modules/
 .amazonq/
 testfiles/
+temp/
 
 # Ignore operating system generated files
 .DS_Store # macOS
